@@ -11,4 +11,4 @@ I enjoy working with complex data and looking for trands within while also imple
 I have created this repository to showcase the data analysis skills I have gained through my professional and academic experiences.
 
 ## Table of Contents
-[https://github.com/mmpowell98/Data-Analysis-Portfolio/blob/main/README.md#about]About
+[https://github.com/mmpowell98/Data-Analysis-Portfolio/blob/main/README.md#about] About
