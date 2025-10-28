@@ -40,7 +40,7 @@ In this section I will list some personal and academic data analytic projects I 
   **Result**: On the sheet titled 'Presentation' there is a dashboard with some of the key findings from the dataset. Slicers, Pivot Tables and multiple graphs are incorporated to convey the findings. 
 
 ### Assessing Percent Uninsured in Maine Compared with US and New England
- **Code**: [Assessing Percent Uninsured in Maine Compared with US and New England]
+ **Code**: [Assessing Percent Uninsured in Maine Compared with US and New England](https://github.com/mmpowell98/Data-Analysis-Portfolio/blob/main/County_Health_Rankings_ME.R)
 
   **Goal**: To assess the percent of Maine's population that is uninsured and compare it with New England and National data. 
 
