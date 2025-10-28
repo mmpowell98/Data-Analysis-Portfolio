@@ -18,6 +18,7 @@ I have created this repository to showcase the data analysis skills I have gaine
   - R
   - SQL
   - QGIS
+ - [Education](https://github.com/mmpowell98/Data-Analysis-Portfolio/edit/main/README.md#education)
 
 
 ## Portfolio
@@ -36,6 +37,12 @@ In this section I will list some personal and academic data analytic projects I 
 **Tool**: Excel
 
 **Result**: On the sheet titled 'Presentation' there is a dashboard with some of the key findings from the dataset. Slicers, Pivot Tables and multiple graphs are incorporated to convey the findings. 
+
+## Education
+
+Boston University School of Public Health, Masters of Public Health, Epidemiology & Biostatistics - December 2024
+
+University of Massachusetts - Amherst, Bachelors of Science, Biochemistry & Molecular Biology - December 2019
 
 
 
