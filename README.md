@@ -13,7 +13,13 @@ I have created this repository to showcase the data analysis skills I have gaine
 ## Table of Contents
 - [About](https://github.com/mmpowell98/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio](https://github.com/mmpowell98/Data-Analysis-Portfolio/blob/main/README.md#portfolio)
+  - Excel
+    - Covid Health Disparities among Male and Female in Europe and other Regions 
 
 
 ## Portfolio
+
+In this section I will list some personal and academic data analytic projects I worked on, with brief descriptions of the processes taken. 
+
+### Covid Health Disparities among Male and Female in Europe and other Regions
 
