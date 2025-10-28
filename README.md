@@ -16,6 +16,7 @@ I have created this repository to showcase the data analysis skills I have gaine
   - Excel
     - [Covid Health Disparities among Male and Female in Europe and other Regions](https://github.com/mmpowell98/Data-Analysis-Portfolio/blob/main/README.md#covid-health-disparities-among-male-and-female-in-europe-and-other-regions)
   - R
+    - [Assessing Percent Uninsured in Maine Compared with US and New England](https://github.com/mmpowell98/Data-Analysis-Portfolio/edit/main/README.md#assessing-percent-uninsured-in-maine-compared-with-us-and-new-england)
   - SQL
   - QGIS
  - [Education](https://github.com/mmpowell98/Data-Analysis-Portfolio/edit/main/README.md#education)
@@ -37,6 +38,20 @@ In this section I will list some personal and academic data analytic projects I 
   **Tool**: Excel
 
   **Result**: On the sheet titled 'Presentation' there is a dashboard with some of the key findings from the dataset. Slicers, Pivot Tables and multiple graphs are incorporated to convey the findings. 
+
+### Assessing Percent Uninsured in Maine Compared with US and New England
+ **Code**: [Assessing Percent Uninsured in Maine Compared with US and New England]
+
+  **Goal**: To assess the percent of Maine's population that is uninsured and compare it with New England and National data. 
+
+  **Description**: This project involved various datasets regarding insurance. County-level data was downloaded from the County Health Rankings to understand trends within Maine. Longitudinal data was downloaded from the Census Bureau's Health Insurance Historical Tables to compare Maine to the US. New England regional data was downloaded from KFF's estimates based on the American Community Survey 2023 1-year estimate. 
+
+  **Skills**: Data Cleaning, Data Manipulation, Data Visualization, Heat Map
+
+  **Tool**: R
+
+  **Result**: Multiple visualizations that summarize the status of Maine's population that is uninsured, both within the state but also compared to New england and nationally. 
+  
 
 ## Education
 
