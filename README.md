@@ -27,3 +27,4 @@ In this section I will list some personal and academic data analytic projects I 
 ### Covid Health Disparities among Male and Female in Europe and other Regions
 
 
+
