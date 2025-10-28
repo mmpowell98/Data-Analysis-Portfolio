@@ -1,6 +1,8 @@
 # Data-Analysis-Portfolio
 
-My name is Morgan Powell and I work as a data analyst for a health system. I have an MPH with a focus on Epidemiology and Biostatistics and routinely work on surveillance and evaluation efforts to understand health trends in the communities I work in. My first professional role involved wastewater-based epidemiology, which ignited my passion for the field of epidemiology and led me to pursue an MPH at Boston University. Between school work and an internship with a local health system in Cambridge, MA, I explored various data tools and became familiar with concepts. Now, I regularly work in Excel, SAS, R Studio and am gaining familiarity for SQL. I have also used PowerBI and QGIS in the past, though do not regularly incorporate it into my daily functions. 
+My name is Morgan Powell and I work as a data analyst for a health system. I have an MPH with a focus on Epidemiology and Biostatistics and routinely work on surveillance and evaluation efforts to understand health trends in the communities I work in. 
+
+My first professional role involved wastewater-based epidemiology, which ignited my passion for the field of epidemiology and led me to pursue an MPH at Boston University. Between fullt-time work, school and an internship with a local health system in Cambridge, MA, I explored various data tools and became familiar with concepts. Now, I regularly work in Excel, SAS, R Studio and am gaining familiarity for SQL. I have also used PowerBI and QGIS in the past, though do not regularly incorporate it into my daily functions. 
 
 I enjoy working with complex data and looking for trands within while also implementing quality control efforts. I am eager to learn as many skills as I can to support my journey as a data analyst in the public health space. 
 
