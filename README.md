@@ -25,12 +25,18 @@ I have created this repository to showcase the data analysis skills I have gaine
 In this section I will list some personal and academic data analytic projects I worked on, with brief descriptions of the processes taken. 
 
 ### Covid Health Disparities among Male and Female in Europe and other Regions
-Code: GH854 Final Project.xlsx
-Goal: To create a dashboard of sex-related Covid-19 statistics among countries with data.
-Description: This project involved a publicly-avaliable dataset of Covid-19 statistics at the country level. While not all countries had sex-disaggregated data, I focused on only countries that did to further understand the ratio of cases among males and females. I also added in a column based on the region of that country to be able to further explore regional differences. 
-Skills: Data Cleaning, Data Manipulation, Pivot Tables, Data Visualization
-Tool: Excel
-Result: On the sheet titled 'Presentation' there is a dashboard with some of the key findings from the dataset. Slicers, Pivot Tables and multiple graphs are incorporated to convey the findings. 
+**Code**: (GH854 Final Project.xlsx)
+
+**Goal**: To create a dashboard of sex-related Covid-19 statistics among countries with data.
+
+**Description**: This project involved a publicly-avaliable dataset of Covid-19 statistics at the country level. While not all countries had sex-disaggregated data, I focused on only countries that did to further understand the ratio of cases among males and females. I also added in a column based on the region of that country to be able to further explore regional differences.
+
+**Skills**: Data Cleaning, Data Manipulation, Pivot Tables, Data Visualization
+
+**Tool**: Excel
+
+**Result**: On the sheet titled 'Presentation' there is a dashboard with some of the key findings from the dataset. Slicers, Pivot Tables and multiple graphs are incorporated to convey the findings. 
+
 
 
 
