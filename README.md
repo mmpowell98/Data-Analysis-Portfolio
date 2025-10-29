@@ -27,7 +27,7 @@ I have created this repository to showcase the data analysis skills I have gaine
 In this section I will list some personal and academic data analytic projects I worked on, with brief descriptions of the processes taken. 
 
 ### Covid Health Disparities among Male and Female in Europe and other Regions
-  **Code**: [Covid Health Disparities among Male and Female in Europe and other Regions](https://github.com/mmpowell98/Data-Analysis-Portfolio/blob/main/GH854%20Final%20Project.xlsx)
+  **Code**: [Covid Health Disparities among Male and Female in Europe and other Regions](https://github.com/mmpowell98/Portfolio-Projects/blob/main/GH854%20Final%20Project.xlsx)
 
   **Goal**: To create a dashboard of sex-related Covid-19 statistics among countries with data.
 
