@@ -54,7 +54,7 @@ In this section I will list some personal and academic data analytic projects I 
   **Result**: Multiple visualizations that summarize the status of Maine's population that is uninsured, both within the state but also compared to New england and nationally. 
 
 ### Understanding Health Care Expenditure In US, 1970-2023
-  **Code**: [Understanding Hospital Care Expenditure In US, 1970-2023]
+  **Code**: [Understanding Hospital Care Expenditure In US, 1970-2023](https://github.com/mmpowell98/Portfolio-Projects/blob/main/health_expenditure.sql)
   
   **Goal**: To answer questions I had about hospital expenditures, primarily the year with highest expenditure and that types of healthcare have the highest expenditure in US.
 
