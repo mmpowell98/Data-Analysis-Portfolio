@@ -18,6 +18,7 @@ I have created this repository to showcase the data analysis skills I have gaine
   - R
     - [Assessing Percent Uninsured in Maine Compared with US and New England](https://github.com/mmpowell98/Data-Analysis-Portfolio/edit/main/README.md#assessing-percent-uninsured-in-maine-compared-with-us-and-new-england)
   - SQL
+    - [Understanding Hospital Care Expenditure In US, 1970-2023](https://github.com/mmpowell98/Data-Analysis-Portfolio/edit/main/README.md#understanding-health-care-expenditure-in-us-1970-2023)
   - QGIS
  - [Education](https://github.com/mmpowell98/Data-Analysis-Portfolio/edit/main/README.md#education)
 
@@ -40,7 +41,7 @@ In this section I will list some personal and academic data analytic projects I 
   **Result**: On the sheet titled 'Presentation' there is a dashboard with some of the key findings from the dataset. Slicers, Pivot Tables and multiple graphs are incorporated to convey the findings. 
 
 ### Assessing Percent Uninsured in Maine Compared with US and New England
- **Code**: [Assessing Percent Uninsured in Maine Compared with US and New England](https://github.com/mmpowell98/Portfolio-Projects/blob/main/County_Health_Rankings_ME.R)
+  **Code**: [Assessing Percent Uninsured in Maine Compared with US and New England](https://github.com/mmpowell98/Portfolio-Projects/blob/main/County_Health_Rankings_ME.R)
 
   **Goal**: To assess the percent of Maine's population that is uninsured and compare it with New England and National data. 
 
@@ -51,7 +52,19 @@ In this section I will list some personal and academic data analytic projects I 
   **Tool**: R
 
   **Result**: Multiple visualizations that summarize the status of Maine's population that is uninsured, both within the state but also compared to New england and nationally. 
+
+### Understanding Health Care Expenditure In US, 1970-2023
+  **Code**: [Understanding Hospital Care Expenditure In US, 1970-2023]
   
+  **Goal**: To answer questions I had about hospital expenditures, primarily the year with highest expenditure and that types of healthcare have the highest expenditure in US.
+
+  **Description**: This project, although brief, allowed me to incorporate Centers for Medicare & Medicaid Services data on Hospital Care Expenditures by Source of Funds. I was able to retrieve answers to questions that arose from looking at the data. 
+
+  **Skills**: Data Retrieval, Aggregation, Grouping 
+
+  **Tool**: Postgres SQL
+
+  **Result**: I answered multiple questions on hospital care expenditures. 
 
 ## Education
 
